@@ -22,9 +22,9 @@ h1{
     font-weight: 700;
     font-size: 79px;
     line-height: 90.84px;
-    top: 230px;
-    left: 478px;
-    transform: translate(0%, 0%);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     color: white;
 }
 .patara{
@@ -35,9 +35,9 @@ h1{
     font-weight: 400;
     font-size: 19px;
     line-height: 21.85px;
-    top: 330px;
-    left: 600px;
-    transform: translate(0%, 0%);
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 .class1{ 
     display: inline-block;
