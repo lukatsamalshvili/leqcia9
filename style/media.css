@@ -1,22 +1,40 @@
 @media (max-width: 1230px) {
     .container {
         width: 100%;
+        
+      }
+      ul{
+        margin-right: 60px;
+      }
+      .logooo{
+        margin-left: 70px;
       }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 872px) {
     nav {
         display: none;  
 }
     }
+    .mshobeli{
+        width: 100%;
 
-@media (min-width: 800px) {
-       
-        .fa-burger {
-        display: none;
+    } 
+    .fa-burger {
         width: 31px;
         height: 31px;
     }
+    .container {
+        width: 100%;
+        
+      }
+
+@media (min-width: 872px) {
+    .fa-burger{
+        display: none;
+    }
+       
+       
 }
 @media (min-width: 866px) {
        
